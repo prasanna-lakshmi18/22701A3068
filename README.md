@@ -66,7 +66,7 @@ The project consists of two main components:
 ---
 
 ## 6. Example API Workflow  
-
+I have used POSTMAN for API Testing.
 1. **User Registration**  
    ```json
    POST /register
@@ -99,6 +99,11 @@ The project consists of two main components:
      "url": "https://example.org"
    }
    ```
+
+![Register demonstration screeshot](https://github.com/prasanna-lakshmi18/22701A3068/blob/main/Api_test_outputs_images/Screenshot%20(76).png)
+![Login demonstration screeshot](https://github.com/prasanna-lakshmi18/22701A3068/blob/main/Api_test_outputs_images/Screenshot%20(78).png)
+![shorturls demonstration screeshot](https://github.com/prasanna-lakshmi18/22701A3068/blob/main/Api_test_outputs_images/Screenshot%20(79).png)
+![my-urls demonstration screeshot](https://github.com/prasanna-lakshmi18/22701A3068/blob/main/Api_test_outputs_images/Screenshot%20(80).png)
 
 ---
 
